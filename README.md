@@ -1,4 +1,4 @@
-This is a Collaborative Project by Student A and tudent B.
+This is a Collaborative Project by Student A and Student B.
 # Git Lab Practice
 =======
 # github-lab-practice
