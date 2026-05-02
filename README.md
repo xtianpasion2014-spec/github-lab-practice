@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+This is a Collaborative Project
 # Git Lab Practice
 =======
 # github-lab-practice
